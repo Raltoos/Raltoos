@@ -10,3 +10,4 @@ A passionate software developer from India
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=raltoos&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@018df515-fa86-48cf-928a-dce08ac63782/3f43b75f-85c2-4256-942c-cc5bdcd730ac.png" /></a>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@018df515-fa86-48cf-928a-dce08ac63782/cf8f619b-6fa6-4e68-af8b-b316c9ca9fcc.png" /></a>
