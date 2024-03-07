@@ -9,4 +9,4 @@ A passionate software developer from India
 ![](https://github-readme-streak-stats.herokuapp.com/?user=raltoos&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=raltoos&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<figure><embed src="https://wakatime.com/share/@018df515-fa86-48cf-928a-dce08ac63782/0383f9cc-d2db-46d8-8712-b6afa12bfaed.svg"></embed></figure>
