@@ -1,7 +1,7 @@
 # 💫 About Me:
 Passionate about coding
 
-[![Leetcode Stats]([https://leetcard.jacoblin.cool/JacobLinCool](https://leetcard.jacoblin.cool/anujparwal?theme=dark&font=Changa&ext=heatmap))](https://leetcode.com/u/anujparwal)
+![LeetCode Stats](https://leetcard.jacoblin.cool/anujparwal?theme=dark&font=Changa&ext=heatmap)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anuj-parwal) 
